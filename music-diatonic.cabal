@@ -53,7 +53,7 @@ Library
   Exposed-modules:     Music.Diatonic.Scale, Music.Diatonic.Harmony, Music.Diatonic.Quality, Music.Diatonic.Interval, Music.Diatonic.Degree, Music.Diatonic.Note, Music.Diatonic.Chord, Music.Diatonic.Key, Music.Diatonic.Equivalence, Music.Diatonic
   
   -- Packages needed in order to build this package.
-  Build-depends: base >=4 && <5, haskell98 >=1 && <2
+  Build-depends: base >=4 && <5
   
   -- Modules not exported by this package.
   -- Other-modules:       

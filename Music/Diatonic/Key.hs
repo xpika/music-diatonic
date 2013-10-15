@@ -12,8 +12,8 @@ module Music.Diatonic.Key (
 
 import Music.Diatonic
 import Music.Diatonic.Scale
-import List (sortBy)
-import Maybe (fromJust)
+import Data.List (sortBy)
+import Data.Maybe (fromJust)
 import Data.Function (on)
 
 

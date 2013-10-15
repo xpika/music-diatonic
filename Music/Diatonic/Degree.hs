@@ -16,7 +16,7 @@ import Music.Diatonic.Note
 import Music.Diatonic.Interval
 import Music.Diatonic.Equivalence
 import Control.Monad (mplus)
-import List (find)
+import Data.List (find)
 
 
 

@@ -14,7 +14,7 @@ module Music.Diatonic.Chord (
 
 import Music.Diatonic
 import Music.Diatonic.Scale
-import List (nub, sort, find) 
+import Data.List (nub, sort, find) 
 
 
 
