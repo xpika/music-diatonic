@@ -27,7 +27,8 @@ Author:              Patrick LeBoutillier
 
 -- An email address to which users can send suggestions, bug reports,
 -- and patches.
-Maintainer:          patl@cpan.org
+Maintainer:          Patrick LeBoutillier <patl@cpan.org>,
+                     Alan Hawkins <w@xy30.com>
 
 -- A copyright notice.
 -- Copyright:           
